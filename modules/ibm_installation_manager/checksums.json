@@ -1,0 +1,14 @@
+{
+  "Gemfile": "f7f7da1508ac9e92410c790f53455041",
+  "NOTES.md": "c1085ada05eb06fc73593083fac6159b",
+  "README.md": "029ef72199d902fd8489f05265623112",
+  "Rakefile": "3044cde52b8cd8508c8400076a66ef11",
+  "examples/ibm_installation_manager.pp": "a87b27bbc72edda1e79322028950bcfc",
+  "examples/ibm_pkg.pp": "d1c597232814f7344a47a5b73ce6621d",
+  "lib/puppet/provider/ibm_pkg/imcl.rb": "fa0495fa841cebe6c549a8e41fb961f9",
+  "lib/puppet/type/ibm_pkg.rb": "81f200eb6ee3e00dca5c9576f6bca8d0",
+  "manifests/init.pp": "d5cfcf0f92df315e3549a75e0cceb5fd",
+  "metadata.json": "b6a1b0266aad8d8d4ae0f5ecde0ef65a",
+  "spec/classes/init_spec.rb": "adb84f7c3c17276daecedb67cddf7f54",
+  "spec/spec_helper.rb": "0db89c9a486df193c0e40095422e19dc"
+}
